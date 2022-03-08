@@ -26,5 +26,5 @@
 ## 项目部署
 已简化，无需频繁的配置，只需一键启动server-list-0.0.2.jar即可
 
-##项目运行实际截图
+## 项目运行实际截图
 ![Image](https://raw.githubusercontent.com/siyecao/image-folder/master/images/file_watchers.png)
