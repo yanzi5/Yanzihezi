@@ -1,6 +1,6 @@
-# judge-system 4.0
-一个支持 DOMjudge、Sicily Online Judge、Matrix Online Judge 的评测系统。
-本评测系统分为两个项目：judge-system、runguard。其中 runguard 子项目的细节请到 runguard 文件夹查看。
+# 燕子盒子 V23.0.1.27
+燕子盒子是一款基于《我的世界》（英文名：MINECRAFT）的启动器软件，软件内为玩家提供游戏资讯，官方版本更新，官方信息。
+为玩家提供更多的多人世界游戏服务器，联机，皮肤，聊天，模组，材质包资源等
 
 ## 架构
 一台机器运行一个 judge-system，并启动一些 worker，worker 可以执行不同的任务：
