@@ -1,5 +1,5 @@
 # 燕子盒子 V23.0.1.27
-[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)[![Build Status](https://ci.huangyuhui.net/job/HMCL/badge/icon?.svg)](https://ci.huangyuhui.net/job/HMCL)
+[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://yzgzs.top)[![Build Status](https://ci.huangyuhui.net/job/HMCL/badge/icon?.svg)](https://yzgzs.top)
 
 ## 项目介绍
 燕子盒子是一款用于畅玩我的世界游戏的游戏盒子软件，软件内为玩家提供游戏资讯，官方版本更新，官方信息等。软件内还分别做出了用户和开发者俩个用户群体。<BR/>
