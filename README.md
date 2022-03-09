@@ -27,10 +27,7 @@
 已简化，无需频繁的配置，只需一键启动server-list-0.0.2.jar即可
 
 ## 项目运行实际截图
-<p align="center">
- ![1](https://s1.ax1x.com/2022/03/09/bRMVxO.png)<BR/>
-</p>
-
+<p align="center" style="color: aqua;" >666</p>
 
 ### 一共8个文件，3个文件夹，是启动PC端必要的文件！缺一都不行
 ![0](https://s1.ax1x.com/2022/03/09/bRMeMD.png)<BR/>
