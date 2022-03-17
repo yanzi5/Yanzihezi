@@ -1,3 +1,4 @@
+#由于版权问题，本项目已终止运营并删除所有源代码。
 # 燕子盒子 V23.0.1.27
 [![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://yzgzs.top)[![Build Status](https://ci.huangyuhui.net/job/HMCL/badge/icon?.svg)](https://yzgzs.top)
 
